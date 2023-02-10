@@ -1,0 +1,190 @@
+{
+    "ts": 1675928698,
+    "list": [
+        {
+            "name": "Harrow Prime",
+            "yesterday": 30,
+            "range": "20 - 41p"
+        },
+        {
+            "name": "Gara Prime",
+            "yesterday": 37,
+            "range": "25 - 49p"
+        },
+        {
+            "name": "Inaros Prime",
+            "yesterday": 50,
+            "range": "40 - 60p"
+        },
+        {
+            "name": "Nidus Prime",
+            "yesterday": 51,
+            "range": "38 - 64p"
+        },
+        {
+            "name": "Garuda Prime",
+            "yesterday": 55,
+            "range": "41 - 69p"
+        },
+        {
+            "name": "Atlas Prime",
+            "yesterday": 62,
+            "range": "40 - 85p"
+        },
+        {
+            "name": "Ivara Prime",
+            "yesterday": 64,
+            "range": "40 - 89p"
+        },
+        {
+            "name": "Revenant Prime",
+            "yesterday": 64,
+            "range": "40 - 89p"
+        },
+        {
+            "name": "Nezha Prime",
+            "yesterday": 65,
+            "range": "40 - 90p"
+        },
+        {
+            "name": "Chroma Prime",
+            "yesterday": 69,
+            "range": "48 - 90p"
+        },
+        {
+            "name": "Titania Prime",
+            "yesterday": 69,
+            "range": "49 - 90p"
+        },
+        {
+            "name": "Khora Prime",
+            "yesterday": 70,
+            "range": "59 - 82p"
+        },
+        {
+            "name": "Equinox Prime",
+            "yesterday": 72,
+            "range": "45 - 99p"
+        },
+        {
+            "name": "Banshee Prime",
+            "yesterday": 74,
+            "range": "50 - 99p"
+        },
+        {
+            "name": "Nyx Prime",
+            "yesterday": 74,
+            "range": "58 - 90p"
+        },
+        {
+            "name": "Octavia Prime",
+            "yesterday": 74,
+            "range": "49 - 100p"
+        },
+        {
+            "name": "Zephyr Prime",
+            "yesterday": 79,
+            "range": "54 - 104p"
+        },
+        {
+            "name": "Baruuk Prime",
+            "yesterday": 82,
+            "range": "60 - 105p"
+        },
+        {
+            "name": "Valkyr Prime",
+            "yesterday": 90,
+            "range": "50 - 130p"
+        },
+        {
+            "name": "Wukong Prime",
+            "yesterday": 90,
+            "range": "70 - 110p"
+        },
+        {
+            "name": "Mirage Prime",
+            "yesterday": 94,
+            "range": "70 - 119p"
+        },
+        {
+            "name": "Trinity Prime",
+            "yesterday": 94,
+            "range": "70 - 119p"
+        },
+        {
+            "name": "Ember Prime",
+            "yesterday": 102,
+            "range": "90 - 114p"
+        },
+        {
+            "name": "Oberon Prime",
+            "yesterday": 104,
+            "range": "69 - 139p"
+        },
+        {
+            "name": "Rhino Prime",
+            "yesterday": 104,
+            "range": "90 - 118p"
+        },
+        {
+            "name": "Mesa Prime",
+            "yesterday": 107,
+            "range": "95 - 119p"
+        },
+        {
+            "name": "Nova Prime",
+            "yesterday": 112,
+            "range": "90 - 135p"
+        },
+        {
+            "name": "Hydroid Prime",
+            "yesterday": 117,
+            "range": "94 - 140p"
+        },
+        {
+            "name": "Limbo Prime",
+            "yesterday": 125,
+            "range": "110 - 140p"
+        },
+        {
+            "name": "Frost Prime",
+            "yesterday": 126,
+            "range": "103 - 149p"
+        },
+        {
+            "name": "Volt Prime",
+            "yesterday": 127,
+            "range": "80 - 175p"
+        },
+        {
+            "name": "Loki Prime",
+            "yesterday": 136,
+            "range": "73 - 200p"
+        },
+        {
+            "name": "Saryn Prime",
+            "yesterday": 150,
+            "range": "120 - 180p"
+        },
+        {
+            "name": "Vauban Prime",
+            "yesterday": 174,
+            "range": "98 - 250p"
+        },
+        {
+            "name": "Ash Prime",
+            "yesterday": 180,
+            "range": "155 - 205p"
+        },
+        {
+            "name": "Mag Prime",
+            "yesterday": 185,
+            "range": "160 - 210p"
+        },
+        {
+            "name": "Nekros Prime",
+            "yesterday": 191,
+            "range": "170 - 212p"
+        }
+    ]
+}

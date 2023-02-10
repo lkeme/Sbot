@@ -1,0 +1,16 @@
+# 权限管理
+[permission]
+# 拥有者
+owner =
+# 管理员
+admin =
+# 超级用户
+superuser = []
+# 白名单
+whitelist = []
+# 黑名单
+blacklist = []
+# 群组白名单
+valid_group = []
+
+# 插件配置列表

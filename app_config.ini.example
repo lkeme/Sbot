@@ -1,0 +1,48 @@
+[app]
+debug = true
+
+[general]
+fast_boot = 1
+
+[database]
+# 暂未使用
+# addr = mysql+pymysql://[username]:[password]@[rds_host]:[3306]/[database1]
+addr = mysql+pymysql://root:@10.10.10.1:3306/sbot
+pool_size = 100
+pool_recycle = 600
+
+[server]
+# 对接go-cqhttp的地址
+http_token =
+http_host =
+http_port =
+# http:// 或 https://
+http_protocol = https://
+ws_host = 0.0.0.0
+ws_port = 8022
+# ws:// 或 wss://
+ws_protocol = ws://
+ws_reverse = true
+
+[log]
+# 日志文件名（含文件扩展名）
+log_file_name = logs/logger.log
+
+# 文件日志等级(NOTICE=0,DEBUG=10,INFO=20,WARNING=30,ERROR=40,CRITICAL=50)
+file_log_level = 10
+
+# 控制台日志等级(NOTICE=0,DEBUG=10,INFO=20,WARNING=30,ERROR=40,CRITICAL=50)
+console_log_level = 10
+
+# 最大日志大小（单位：字节）这里默认为2MB
+max_bytes = 2097152
+
+# 日志拆分次数（不能为0，1为2份，2为3份，以此类推）
+backup_count = 6
+
+[plugin]
+# 插件目录
+root = plugins
+# 插件外部仓库
+external = repository
+
