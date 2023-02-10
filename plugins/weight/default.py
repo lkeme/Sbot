@@ -90,8 +90,9 @@ async def weight(event: MessageEvent) -> None:
     message: str = ''
     if reply_ats:
         for reply_at in reply_ats:
-            content = await get_api_content(reply_at)
-            message = f'账号:{reply_at} {content}'
+            if reply_at.isdigit():
+                content = await get_api_content(reply_at)
+                message = f'账号:{reply_at} {content}'
     else:
         content = await get_api_content(str(event.sender_id))
         message = f'账号:{event.sender_id} {content}'
